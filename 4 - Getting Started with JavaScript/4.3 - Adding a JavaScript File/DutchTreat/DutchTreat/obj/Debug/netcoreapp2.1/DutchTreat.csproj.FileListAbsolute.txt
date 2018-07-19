@@ -1,0 +1,112 @@
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
