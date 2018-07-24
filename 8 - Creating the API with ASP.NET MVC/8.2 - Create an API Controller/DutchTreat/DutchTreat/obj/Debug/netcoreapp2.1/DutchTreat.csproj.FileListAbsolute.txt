@@ -1,0 +1,855 @@
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\Users\christop.webb\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\2 - Getting Started\2.8 - Serving Your First File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.3 - HTML Basics\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.4 - HTML Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.6 - CSS Naming\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.7 - CSS Classes\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\3 - HTML5 and CSS Basics\3.8 - The Box Model\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.3 - Adding a JavaScript File\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.5 - Using Bower\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.6 - Introducing jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\4 - Getting Started with JavaScript\4.7 - Practical jQuery\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.3 - First Controller View\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.4 - Enabling MVC 6\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.5 - Creating a Layout\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.6 - Adding More Views\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.7 - Using Tag Helpers\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.8 - Razor Pages\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.9 - Implementing a Contact Page\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.10 - Model Binding\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.11 - Using Validation\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\5 - Using ASP.NET MVC\5.12 - Adding a Service\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.2 - Adding Bootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.3 - Building a NavBar\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.5 - Using the Grid System\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.6 - Bootstrap Forms\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\6 - Using Bootstrap to Prototype the App\6.7 - Using Font Awesome\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.2 - Creating Entities\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.3 - Using Entity Framework Core Tooling\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.4 - Using Configuration\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Shop.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.5 - Using DbContext\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Shop.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.6 - Seeding the Database\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Shop.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.7 - The Repository Pattern\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Shop.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.8 - Showing the Products\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Shop.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\7 - Building the Database with Entity Framework Core\7.9 - Logging Errors\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.dll
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.input.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.TagHelpers.output.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorCoreGenerate.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Shop.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.Views.pdb
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\building-a-web-app-with-asp.net-core\8 - Creating the API with ASP.NET MVC\8.2 - Create an API Controller\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CopyComplete
