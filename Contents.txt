@@ -1,0 +1,92 @@
+
+			Contents
+
+--------------------------------------------------------
+
+
+2  -  Getting Started
+
+	2.5  -  Hello World!
+	2.6  -  Installing Visual Studio
+	2.7  -  Creating a Project with Visual Studio
+	2.8  -  Serving Your First File
+
+3  -  HTML5 and CSS Basics
+
+	3.3  -  HTML Basics
+	3.4  -  HTML Forms
+	3.5  -  CSS Basics
+	3.6  -  CSS Naming
+	3.7  -  CSS Classes
+	3.8  -  The Box Model
+
+4  -  Getting Started with Javascript
+
+	4.3  -  Adding a JavaScript File
+	4.4  -  JavaScript Events
+	4.5  -  Using Bower
+	4.6  -  Introducing jQuery
+	4.7  -  Practical jQuery
+
+5  -  Using ASP.NET MVC
+
+	5.3  -  First Controller/View
+	5.4  -  Enabling MVC 6
+	5.5  -  Creating a Layout
+	5.6  -  Adding More Views
+	5.7  -  Using Tag Helpers
+	5.8  -  Razor Pages
+	5.9  -  Implementing a Contact Page
+	5.10 -  Model Binding
+	5.11 -  Using Validation
+	5.12 -  Adding a Service
+
+6  -  Using Bootstrap to Prototype the App
+
+	6.2  -  Adding Bootstrap
+	6.3  -  Building a NavBar
+	6.5  -  Using the Grid System
+	6.6  -  Bootstrap Forms
+	6.7  -  Using Font Awesome
+
+7  -  Building the Database with Entity Framework Core
+
+	7.2  -  Creating Entities
+	7.3  -  Using Entity Framework Core Tooling
+	7.4  -  Using Configuration
+	7.5  -  Using DbContext
+	7.6  -  Seeding the Database
+	7.7  -  The Repository Pattern
+	7.8  -  Showing the Products
+	7.9  -  Logging Errors
+
+8  -  Creating the API with ASP.NET MVC
+
+	8.2  -  Create an API Controller
+	8.3  -  Returning Data
+	8.4  -  Implementing POST
+	8.5  -  Validation and View Models
+	8.6  -  Using AutoMapper
+	8.7  -  Creating Association Controllers
+	8.8  -  Using Query Strings for APIs
+
+9  -  ASP.NET Core Identity
+
+	9.2  -  Authorizing Actions
+	9.3  -  Storing Identities in the Database
+	9.4  -  Configuring Identity
+	9.5  -  Designing the Login View
+	9.6  -  Implementing Login and Logout
+	9.7  -  Use Identity in the API
+	9.8  -  Use Identity in Read Operations
+	9.9  -  Use Identity in Write Operations
+
+10 -  Brief Introduction to TypeScript
+
+	10.2 -  First TypeScript Class
+	10.3 -  Compiling TypeScript
+	10.4 -  Debugging in the Browser
+
+11 -  Client-side Development with Angular
+
+	11.4 -  Generating Your First Project
