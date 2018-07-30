@@ -20,7 +20,7 @@
 	3.7  -  CSS Classes
 	3.8  -  The Box Model
 
-4  -  Getting Started with Javascript
+4  -  Getting Started with JavaScript
 
 	4.3  -  Adding a JavaScript File
 	4.4  -  JavaScript Events
