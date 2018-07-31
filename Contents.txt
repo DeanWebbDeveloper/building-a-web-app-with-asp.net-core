@@ -90,3 +90,12 @@
 11 -  Client-side Development with Angular
 
 	11.4 -  Generating Your First Project
+	11.5 -  Copying the Project
+	11.6 -  Integrating the Project
+	11.7 -  Using External Templates
+	11.8 -  Your First Angular Component
+
+12 -  Using Services in Angular
+
+	12.2 - Creating a Service
+	12.3 - Using HTTP
