@@ -16,7 +16,7 @@ import { DataService } from "./shared/dataService";
 import { RouterModule } from "@angular/router";
 var routes = [
     { path: "", component: Shop },
-    { path: "/checkout", component: Checkout }
+    { path: "checkout", component: Checkout }
 ];
 var AppModule = /** @class */ (function () {
     function AppModule() {
