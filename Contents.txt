@@ -105,3 +105,12 @@
 	12.7	-	Sharing Data Across Components
 	12.8	-	Building the Cart
 	12.9	-	Using Calculated Data
+
+13	-	Routing with Angular
+
+	13.2	-	Add Routing to the Project
+	13.3	-	Support Login
+	13.4	-	Use Form Binding
+	13.5	-	Add Validation
+	13.6	-	Use Token Authentication
+	13.7	-	Implement Server-side Checkout

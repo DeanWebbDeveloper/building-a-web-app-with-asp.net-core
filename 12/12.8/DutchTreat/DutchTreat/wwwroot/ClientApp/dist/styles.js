@@ -539,7 +539,7 @@ module.exports = function (css) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\building-a-web-app-with-asp.net-core\12\12.5\DutchTreat\DutchTreat\ClientApp\styles.css */"./ClientApp/styles.css");
+module.exports = __webpack_require__(/*! C:\building-a-web-app-with-asp.net-core\12\12.8\DutchTreat\DutchTreat\ClientApp\styles.css */"./ClientApp/styles.css");
 
 
 /***/ })
