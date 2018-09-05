@@ -114,3 +114,11 @@
 	13.5	-	Add Validation
 	13.6	-	Use Token Authentication
 	13.7	-	Implement Server-side Checkout
+
+14	-	Deploying ASP.NET Core Apps
+
+	14.2	-	Minifying Your JavaScript
+	14.3	-	Environment Tag Helpers
+	14.4	-	Setting up Deployment Scripts
+	14.5	-	Publishing to a Directory
+	14.8	-	Publishing Using the CLI
